@@ -49,14 +49,4 @@ The dataset consists of labeled text samples with binary classification: **origi
 AIML Student | GGSIPU  
 [GitHub](https://github.com/abhinavgoel2005)
 
----
 
-## 📷 Screenshots
-
-*You can include screenshots of the notebook outputs or confusion matrix here.*
-
----
-
-## ⚠️ Disclaimer
-
-This tool is for educational purposes and basic plagiarism detection only.
